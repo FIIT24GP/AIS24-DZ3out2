@@ -59,9 +59,9 @@ my_microservices/
 
 Склонируйте репозиторий проекта:
 
-    git clone https://github.com/ваш_логин/my_microservices.git
+    git clone https://github.com/FIIT24GP/AIS24-DZ3out2.git
     
-    cd my_microservices
+    cd AIS24-DZ3out2
 
 Соберите и запустите проект:
     sudo docker-compose up --build
